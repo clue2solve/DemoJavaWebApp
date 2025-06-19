@@ -1,1 +1,1 @@
-# DemoJavaWebApp
+# Clue2App Java Demo WebApp
